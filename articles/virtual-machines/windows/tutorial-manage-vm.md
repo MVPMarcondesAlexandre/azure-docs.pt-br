@@ -25,12 +25,12 @@ ms.locfileid: "51035961"
 ---
 # <a name="tutorial-create-and-manage-windows-vms-with-azure-powershell"></a>Tutorial: Criar e Gerenciar as VMs do Windows com o Microsoft Azure PowerShell
 
-Máquinas virtuais do Azure fornecem um ambiente de computação totalmente configurável e flexível. Este tutorial aborda itens básicos de tarefas de implantação de VM (máquina virtual) do Azure, como a seleção de um tamanho de VM, a seleção de uma imagem de VM e a implantação de uma VM. Você aprenderá como:
+Máquinas virtuais no Azure fornecem um ambiente de computação totalmente configurável e flexível. Este tutorial aborda itens fundamentais relacionados as tarefas básicas de implantação de VM (máquina virtual) no Azure, como a escolha do tamanho de uma VM, a seleção de uma imagem de VM e a implantação de uma VM. Você aprenderá como:
 
 > [!div class="checklist"]
 > * Criar e conectar-se a uma VM
 > * Selecionar e usar imagens de VM
-> * Exibir e usar tamanhos específicos de VM
+> * Exibir e escolher tamanhos específicos de VM
 > * Redimensionar uma VM
 > * Exibir e compreender o estado da VM
 
